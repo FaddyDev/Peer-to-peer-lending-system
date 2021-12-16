@@ -1,0 +1,24 @@
+/* CSS Document */
+
+.head{
+margin-top:4%;}
+
+.cont{
+margin-top:0.5%;
+margin-bottom:0.5%;
+min-height: 100vh;
+overflow:scroll;}
+
+.head, .foot{
+text-align:center;
+}
+
+.head{
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;}
+
+#serve{
+padding:5%;
+background-color:#FF0000;
+}
+
